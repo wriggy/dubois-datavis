@@ -1,4 +1,4 @@
-# Thirty Days of data visualisation
+# Thirty Days of Data Vis
 
 ***A personal project to explore different ways of representing data through many small data visualisations in python.***
 
