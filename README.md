@@ -1,6 +1,6 @@
 # Thirty Days of data visualisation
 
-***A personal project to explore different ways of representing data through many small data visualisations.***
+***A personal project to explore different ways of representing data through many small data visualisations in python.***
 
 ---
 
