@@ -1,0 +1,6 @@
+xtick.bottom : False
+ytick.left : False
+grid.alpha : 0.5
+font.family:  monospace
+font.monospace:  DejaVu Sans Mono, Bitstream Vera Sans Mono, Computer Modern Typewriter, Andale Mono, Nimbus Mono L, Courier New, Courier, Fixed, Terminal, monospace
+savefig.dpi : 90
