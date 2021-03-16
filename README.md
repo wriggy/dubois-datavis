@@ -11,8 +11,11 @@ Inspired by a [challenge](https://github.com/ajstarks/dubois-data-portraits/tree
 4. An area chart - striking blocks of colour.
 5. Connected stacked bars.
 6. Comparing numbers on different scales - an unusual stacked bar chart.
+7. A spiral bar chart.
 
 
 <img src="vis/D1_dubois1.png" height="200" > <img src="vis/D2_duBois2.png" height="200" > <img src="vis/D3_duBois3.png" height="200" >
 
 <img src="vis/D4_duBois4.png" height="200" > <img src="vis/D5_duBois5.png" height="200" > <img src="vis/D6_duBois6.png" height="200" >
+
+<img src="vis/D7_duBois7.png" height="200" >
