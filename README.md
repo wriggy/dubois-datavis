@@ -12,8 +12,8 @@ Inspired by a [challenge](https://github.com/ajstarks/dubois-data-portraits/tree
 5. Connected stacked bars.
 6. Comparing numbers on different scales - an unusual stacked bar chart.
 7. A spiral bar chart.
-8. Maps using natural earth data.
-9. Annotated maps of US states.
+8. Clipped geographic maps made using natural earth data.
+9. Coloured US states annotated with vectors and data.
 
 
 <img src="vis/D1_dubois1.png" height="200" > <img src="vis/D2_duBois2.png" height="200" > <img src="vis/D3_duBois3.png" height="200" >
